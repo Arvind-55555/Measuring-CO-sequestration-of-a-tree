@@ -55,7 +55,7 @@
    
 **Phase 2: Measurement and Calculation**
 
-**1. Baseline Measurements (Step 2 from reference):**
+**1. Baseline Measurements:**
 
   * **DBH (Diameter at Breast Height):**
     
@@ -67,13 +67,13 @@
     
   * **Record Data Carefully:** Log all measurements with the exact date and time. This is essential for tracking changes and growth over time.
 
-**2. Biomass Estimation (Step 2 from reference):**
+**2. Biomass Estimation:**
 
   * **Apply Allometric Equation:** Input DBH and height (and possibly other parameters, as defined by the specific equation) into the species-specific equation to estimate the tree's above-ground biomass (in kilograms or tons).
     
   * **Document Equations Used:** Keep a record of all equations used for calculations.
 
-**3. Carbon Content Estimation (Step 3 from reference):**
+**3. Carbon Content Estimation:**
 
   * **Standard Conversion Factor:** Multiply the tree's biomass by a standard conversion factor (typically around 0.5) to estimate the amount of carbon stored in the tree's biomass. Note that this factor may vary between species and regions.
 
@@ -83,7 +83,7 @@
 
       CO₂ stored = Carbon content * 3.67
 
-**5. Annual Sequestration (Step 5 from reference):**
+**5. Annual Sequestration:**
 
   * **Growth Rate Data:** Obtain local growth rate data for the specific species if possible. Alternatively, use the growth rate values from the selected carbon calculator software.
 
@@ -91,20 +91,20 @@
 
   * **Annual CO₂ Sequestration:** Recalculate biomass, carbon content, and CO₂ for each measurement period. Calculate the annual sequestration by subtracting the previous year's value from the current year's value.
 
-**6. Soil Carbon Monitoring (Optional – Step 4 in reference):**
+**6. Soil Carbon Monitoring:**
 
   * **Soil Sampling:** If you want a more accurate and comprehensive measurement of CO2 saved, take soil samples near the tree and use laboratory tests to determine how much carbon is stored within the soil.
 
 
 **Phase 3: Long-Term Tracking & Considerations**
 
-**1. Tree Lifespan and Decay (Step 6 from reference):**
+**1. Tree Lifespan and Decay:**
 
   * **Estimate Lifespan:** Research the typical lifespan for your specific tree species.
 
   * **Decomposition:** Factor in that when the tree dies and decomposes, it will release stored carbon back into the atmosphere. Model this using available information on decay rates of specific wood types.
 
-**2. Contextual Factors (Step 6 from reference):**
+**2. Contextual Factors:**
 
   * **Land-Use Change:** Consider potential changes in land use that could affect the tree’s survival (e.g., construction, agriculture).
 
